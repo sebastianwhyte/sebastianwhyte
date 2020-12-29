@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Python/C++/Java projects for my portfolio
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on apps, games, open source projects
-- 🤔 I’m looking for help with contributing to open source projects
+- 🤔 I’m looking for my first junior software developer job
 - 💬 Ask me about Python
 - 📫 How to reach me: Email (bastianwhyte1@gmail.com)
 - 😄 Pronouns: He/Him
