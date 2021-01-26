@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Python/C++/Java projects for my portfolio
+- 🔭 I’m currently working on Python/C++ projects for my portfolio
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on apps, games, open source projects
 - 🤔 I’m looking for my first junior software developer job
