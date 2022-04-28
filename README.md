@@ -7,4 +7,4 @@
 - 🤔 I’m looking for my first software developer job
 - 💬 Ask me about Java
 - 📫 How to reach me: Email (bastianwhyte1@gmail.com)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
