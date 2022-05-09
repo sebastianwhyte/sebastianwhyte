@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm currently an university student in New York State
-- 🌱 I’m currently learning Java and making Java projects 
+- 🌱 I use Java and I'm learning C++
 - 👯 I’m looking to collaborate on apps, games, open source projects
 - 🤔 I’m looking for my first software developer job
 - 💬 Ask me about Java
