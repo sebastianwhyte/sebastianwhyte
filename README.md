@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I'm currently an university student in New York State
+- 🔭 I'm currently a university student in New York State
 - 🌱 I use Java. I'm learning C++ as well
 - 👯 I’m looking to collaborate on apps, games, open source projects
 - 🤔 I’m looking for my first software developer job
