@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm a new CS graduate based in New York State
-- 🌱 Experienced with Java and Python. I'm also familiar with C++
+- 🌱 Experienced with Java and Python. I'm also familiar with C/C++
 - 👯 I’m looking to collaborate on apps, games, open source projects
 - 🤔 I’m looking for my first software engineering job. I'm particularly interested in backend development and machine learning.
 - 💬 Ask me about Java, Python
