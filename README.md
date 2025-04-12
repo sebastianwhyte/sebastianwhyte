@@ -1,7 +1,7 @@
 ### About Me
 
 
-- :octocat: Professional Software Engineer based in New York State
+- :octocat: Professional Software Engineer
 - :computer: Experienced with Java, SQL, and Python
 - :handshake: Interested in collaborating on open source projects
 - :white_check_mark: Currently in Backend Development
