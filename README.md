@@ -2,9 +2,9 @@
 
 
 - :octocat: Professional Software Engineer
-- :computer: Experienced with Java, SQL, and Python
+- :computer: Experienced with Java, SQL, Python, and TypeScript
 - :handshake: Interested in collaborating on open source projects
-- :white_check_mark: Currently in Backend Development
+- :white_check_mark: Currently in Full Stack Development
 - 💬 Ask me about Java, Python
 - 📫 Email: :envelope: whyte.sebastian14@gmail.com,
 - LinkedIn: <a href="https://www.linkedin.com/in/sebastian-whyte"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="90px" height="25px"/></a>
@@ -24,5 +24,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/junit/junit-original-wordmark.svg" title="JUnit" alt="JUnit" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" title="Hibernate" alt="Hibernate" width="50" height="50/>
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" title="Hibernate" alt="Hibernate" width="50" height="50/>&nbsp; -->
+    <br />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg" title="Angular" **alt="Angular" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="30" height="30"/>&nbsp;
 </div>
